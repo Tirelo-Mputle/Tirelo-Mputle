@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-As a junior full-stack developer, I'm proficient in HTML, CSS, JavaScript and React JS. I am currently enrolled in a 1-year Software developer course with CodeSpace. 
+I'm proficient in HTML, CSS, JavaScript and React JS. I am currently enrolled in a 1-year Software developer course with CodeSpace. 
 
 In addition to my technical skills, I possess excellent communication skills that I gained working as an elementary school English teacher. I had to communicate complex grammar in a simplified and easy-to-understand manner. This will enable me to break down complex problems and collaborate effectively with other developers. 
 
