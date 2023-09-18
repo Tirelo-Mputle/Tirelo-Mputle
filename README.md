@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm proficient in HTML, CSS, JavaScript and React JS. I am currently enrolled in a 1-year Software developer course with CodeSpace. 
-
-In addition to my technical skills, I possess excellent communication skills that I gained working as an elementary school English teacher. I had to communicate complex grammar in a simplified and easy-to-understand manner. This enables me to break down complex problems and collaborate effectively with other developers. 
+I am an entry-level React Developer in the final stages of graduating from CodeSpace Academy's comprehensive Software Development course. I am proficient in React, Next.js, JavaScript, Redux, HTML, and CSS. My previous experience as a self-taught developer has primed me to quickly acquire and apply new knowledge.
 
 ### SKILLS 
 React JS | JavaScript | Styled Components | HTML 5 | CSS 3 
