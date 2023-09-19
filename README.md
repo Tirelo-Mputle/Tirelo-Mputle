@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 I am an entry-level React Developer in the final stages of graduating from CodeSpace Academy's comprehensive Software Development course. I am proficient in React, Next.js, JavaScript, Redux, HTML, and CSS. My previous experience as a self-taught developer has primed me to quickly acquire and apply new knowledge.
 
-![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **067 6617 468*
+![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   067 6617 468
 
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [tirelomputle0@gmail.com](tirelomputle0@gmail.com)
 
-![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [Personal Portfolio Site]([http://www.example.com](https://tirelomputle-portfolio.netlify.app/))  
+![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [Personal Portfolio Site](https://tirelomputle-portfolio.netlify.app/)  
 
 ### SKILLS 
 React JS | JavaScript | Styled Components | HTML 5 | CSS 3 
