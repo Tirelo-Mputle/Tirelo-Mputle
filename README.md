@@ -18,7 +18,7 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   067 6617 468
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [tirelomputle0@gmail.com](tirelomputle0@gmail.com)
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [tirelomputle0@gmail.com](mailto:tirelomputle0@gmail.com)
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [Personal Portfolio Site](https://tirelomputle-portfolio.netlify.app/)  
 
