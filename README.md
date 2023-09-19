@@ -1,29 +1,37 @@
-### Hi there 👋
+<table>
+<tr>
+<td>
 
-<!--
-**Tirelo-Mputle/Tirelo-Mputle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Photo](https://media.licdn.com/dms/image/D4D03AQE-2noJu33wcQ/profile-displayphoto-shrink_800_800/0/1666032686340?e=2147483647&v=beta&t=xDH7yVBjEv3o1STld73IBviaK1bBsI5JFme0m890jl8)
 
-Here are some ideas to get you started:
+</td>
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tirelo Mputle
+### Full-Stack Web Developer
+
 I am an entry-level React Developer in the final stages of graduating from CodeSpace Academy's comprehensive Software Development course. I am proficient in React, Next.js, JavaScript, Redux, HTML, and CSS. My previous experience as a self-taught developer has primed me to quickly acquire and apply new knowledge.
 
-![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   067 6617 468
+![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)  **067 6617 468**
 
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [tirelomputle0@gmail.com](mailto:tirelomputle0@gmail.com)
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [Personal Portfolio Site](https://tirelomputle-portfolio.netlify.app/)  
 
+</td>
+</tr>
+</table>
+
 ### SKILLS 
 React JS | JavaScript | Styled Components | HTML 5 | CSS 3 
+## 👾 Technologies
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### PERSONAL PROJECTS 
 
