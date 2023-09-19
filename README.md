@@ -32,18 +32,35 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # Work Experience 
-## March 2017- March 2019
-### English as a Second Language (ESL) Teacher - Bugu Elementary School | Bugu, South Korea
+### English as a Second Language (ESL) Teacher 
+**Bugu Elementary School, South Korea** <br>
+*March 2017- March 2019*
 
 - Lead interactive lessons that include games and fun worksheets to keep the students engaged and learning.
 
 - Developed cultural awareness skills by effectively communicating with my colleagues despite a strong language barrier.
 
-## March 2015- March 2016
-### English as a Second Language (ESL) Teacher - You & I English Academy| Naju, South Korea
+### English as a Second Language (ESL) Teacher
+**You & I English Academy, South Korea** <br>
+*March 2015- March 2016*
 
 - Used various teaching styles to adapt to the wide range of students' ages and grades.
 - Learned how to read Hangul (Korean alphabet) and speak basic Korean in order to improve my communication with other teachers at the academy.
+
+# Education
+
+### Software Development
+🔗[**CodeSpace Academy**](https://www.codespace.co.za/programs/software-development/) <br>
+*Graduated: Dec 2023*  
+- Completed comprehensive coursework in React, Next.js, JavaScript, HTML and CSS.
+  
+### Bachelor of Science  (B.Sc), Geology
+🔗[**University of Cape Town**](https://uct.ac.za/) <br>
+*Graduated: Dec 2014*  
+
+### National Senior Certificate
+**Holy Family Combined School** <br>
+*Graduated: Dec 2008*  
 
 
 ### PERSONAL PROJECTS 
