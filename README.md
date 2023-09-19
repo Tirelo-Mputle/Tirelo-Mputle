@@ -18,9 +18,9 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **067 6617 468*
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [example@example.com](tirelomputle0@gmail.com)
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [tirelomputle0@gmail.com](tirelomputle0@gmail.com)
 
-![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com]([http://www.example.com](https://tirelomputle-portfolio.netlify.app/))
+![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [Personal Portfolio Site]([http://www.example.com](https://tirelomputle-portfolio.netlify.app/))
 
 ### SKILLS 
 React JS | JavaScript | Styled Components | HTML 5 | CSS 3 
