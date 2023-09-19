@@ -63,7 +63,7 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 *Graduated: Dec 2008*  
 
 
-### PERSONAL PROJECTS 
+# PERSONAL PROJECTS 
 
 ## React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
