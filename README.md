@@ -22,9 +22,7 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 </tr>
 </table>
 
-### SKILLS 
-React JS | JavaScript | Styled Components | HTML 5 | CSS 3 
-## 👾 Technologies
+# 👾 Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,6 +30,21 @@ React JS | JavaScript | Styled Components | HTML 5 | CSS 3
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+# Work Experience 
+## March 2017- March 2019
+### English as a Second Language (ESL) Teacher - Bugu Elementary School | Bugu, South Korea
+
+- Lead interactive lessons that include games and fun worksheets to keep the students engaged and learning.
+
+- Developed cultural awareness skills by effectively communicating with my colleagues despite a strong language barrier.
+
+## March 2015- March 2016
+### English as a Second Language (ESL) Teacher - You & I English Academy| Naju, South Korea
+
+- Used various teaching styles to adapt to the wide range of students' ages and grades.
+- Learned how to read Hangul (Korean alphabet) and speak basic Korean in order to improve my communication with other teachers at the academy.
+
 
 ### PERSONAL PROJECTS 
 
