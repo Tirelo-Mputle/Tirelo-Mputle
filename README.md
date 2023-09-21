@@ -84,15 +84,27 @@ Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 #### Description: URL Link shortening web application using the GoTiny link shortener API<br>
 🔗 https://shortly-url-shorter-api.netlify.app/ <br>
 GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
-* Used API (GoTiny link shortener) to shorten user inputted long URL link. <br>
+* Used API (GoTiny link shortener) to shorten user-inputted long URL links. <br>
 * Shortened links are stored in local storage and the three most recent results are displayed below  the input field. <br>
-* Copy of the shortened link is made by clicking the “copy” button.<br> 
+* A copy of the shortened link is made by clicking the “copy” button.<br> 
 * Used Context API to manage state. <br>
 #### Technologies used: <br>
-* React
-* Styled Components 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-## Tirelo Mputle personal portfolio site 🙋‍♀️
+## Javascript Todo List App
+🔗https://todoster.netlify.app/
+#### Description: This is a basic todo list app where the user can: <br>
+* Create todos
+* Edit todos
+* Delete todos
+
+#### Technologies used: <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Personal Portfolio Site 🙋‍♀️
 🔗https://tirelomputle-portfolio.netlify.app/ <br>
 🔗https://github.com/Tirelo-Mputle/Current-Personal-Portfolio
 
@@ -109,15 +121,4 @@ There is a contact form that visitors can interact with that will deliver a mess
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-## Javascript Todo list app
-🔗https://todoster.netlify.app/
-#### Description: This is a basic todo list app where the user can: <br>
-* Create todos
-* Edit todos
-* Delete todos
-
-#### Technologies used: <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
