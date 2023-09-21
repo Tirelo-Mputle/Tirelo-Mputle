@@ -8,7 +8,7 @@
 <td>
 
 # Tirelo Mputle
-### Full-Stack Web Developer
+### Entry-level React Developer
 
 I am an entry-level React Developer in the final stages of graduating from CodeSpace Academy's comprehensive Software Development course. I am proficient in React, Next.js, JavaScript, Redux, HTML, and CSS. My previous experience as a self-taught developer has primed me to quickly acquire and apply new knowledge.
 
@@ -54,7 +54,11 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 *Graduated: Dec 2023*  
 - Completed comprehensive coursework in React, Next.js, JavaScript, HTML and CSS.
   
-### Bachelor of Science  (B.Sc), Geology
+### Bachelor of Science (Hons.), Geology
+🔗[**University of Cape Town**](https://uct.ac.za/) <br>
+*Graduated: Dec 2014*  
+
+### Bachelor of Science, Geology
 🔗[**University of Cape Town**](https://uct.ac.za/) <br>
 *Graduated: Dec 2014*  
 
@@ -101,8 +105,8 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 There is a contact form that visitors can interact with that will deliver a message to my email account.
 
 #### Technologies used: <br>
-* HTML
-* CSS <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
 
 ## Javascript Todo list app
 🔗https://todoster.netlify.app/
@@ -112,7 +116,7 @@ There is a contact form that visitors can interact with that will deliver a mess
 * Delete todos
 
 #### Technologies used: <br>
-* HTML
-* CSS
-* JavaScript
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
