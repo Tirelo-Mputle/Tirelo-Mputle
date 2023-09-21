@@ -52,7 +52,7 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 
 ### Software Development
 🔗[**CodeSpace Academy**](https://www.codespace.co.za/programs/software-development/) <br>
-*Graduated: Dec 2023*  
+*Graduating soon: Dec 2023*  
 - Completed comprehensive coursework in React, Next.js, JavaScript, HTML and CSS.
   
 ### Bachelor of Science (Hons.), Geology
