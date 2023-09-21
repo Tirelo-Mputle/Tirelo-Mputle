@@ -27,6 +27,7 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,7 +61,7 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 
 ### Bachelor of Science, Geology
 🔗[**University of Cape Town**](https://uct.ac.za/) <br>
-*Graduated: Dec 2014*  
+*Graduated: Dec 2013*  
 
 ### National Senior Certificate
 **Holy Family Combined School** <br>
@@ -76,8 +77,8 @@ Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 * Created a multipage e-commerce website using React Router 6 to navigate between pages. ∙ Product inventory page contains single product components which when clicked, lead to a single  product page where customers can customize their order. <br>
 * Customers can add and remove items from the shopping cart which is stored in the local storage. ∙ Shopping cart content state is managed using the useState hook.<br> 
 #### Technologies used: <br>
-* React <br>
-* Styled Components. <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 
 ## Shortly – React Link Shortening Web Application <br>
 #### Description: URL Link shortening web application using the GoTiny link shortener API<br>
@@ -88,8 +89,8 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 * Copy of the shortened link is made by clicking the “copy” button.<br> 
 * Used Context API to manage state. <br>
 #### Technologies used: <br>
-* React <br>
-* Styled Components <br>
+* React
+* Styled Components 
 
 ## Tirelo Mputle personal portfolio site 🙋‍♀️
 🔗https://tirelomputle-portfolio.netlify.app/ <br>
@@ -106,7 +107,7 @@ There is a contact form that visitors can interact with that will deliver a mess
 
 #### Technologies used: <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 ## Javascript Todo list app
 🔗https://todoster.netlify.app/
