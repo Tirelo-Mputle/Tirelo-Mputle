@@ -76,7 +76,7 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 * Created a multipage e-commerce website using React Router 6 to navigate between pages. ∙ Product inventory page contains single product components which when clicked, lead to a single  product page where customers can customize their order. <br>
 * Customers can add and remove items from the shopping cart which is stored in the local storage. ∙ Shopping cart content state is managed using the useState hook.<br> 
-#### Technologies used: <br>
+#### Tech stack: <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
@@ -88,7 +88,7 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 * Shortened links are stored in local storage and the three most recent results are displayed below  the input field. <br>
 * A copy of the shortened link is made by clicking the “copy” button.<br> 
 * Used Context API to manage state. <br>
-#### Technologies used: <br>
+#### Tech stack: <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
@@ -99,7 +99,7 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 * Edit todos
 * Delete todos
 
-#### Technologies used: <br>
+#### Tech stack: <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -117,7 +117,7 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 <br>
 There is a contact form that visitors can interact with that will deliver a message to my email account.
 
-#### Technologies used: <br>
+#### Tech stack: <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
