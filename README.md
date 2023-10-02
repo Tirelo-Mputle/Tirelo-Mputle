@@ -10,7 +10,7 @@
 # Tirelo Mputle
 ### Entry-level React Developer
 
-I am an entry-level React Developer in the final stages of graduating from CodeSpace Academy's comprehensive Software Development course. I am proficient in React, Next.js, JavaScript, Redux, HTML, and CSS. My previous experience as a self-taught developer has primed me to quickly acquire and apply new knowledge.
+I am an entry-level React Developer in the final stages of graduating from CodeSpace Academy's comprehensive Software Development course. I am proficient in React, Next.js, JavaScript, Redux, Bootstrap, HTML, and CSS. My previous experience as a self-taught developer has primed me to quickly acquire and apply new knowledge.
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)  **067 6617 468**
 
