@@ -38,16 +38,15 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 **Bugu Elementary School, South Korea** <br>
 *March 2017- March 2019*
 
-- Lead interactive lessons that include games and fun worksheets to keep the students engaged and learning.
-
-- Developed cultural awareness skills by effectively communicating with my colleagues despite a strong language barrier.
+- Adapted and improved my teaching methodologies through iterative adjustments informed by student feedback and performance data.
+- Enhanced student comprehension by simplifying challenging grammatical concepts in an engaging and enjoyable manner.
 
 ### English as a Second Language (ESL) Teacher
 **You & I English Academy, South Korea** <br>
 *March 2015- March 2016*
 
-- Used various teaching styles to adapt to the wide range of students' ages and grades.
-- Learned how to read Hangul (Korean alphabet) and speak basic Korean in order to improve my communication with other teachers at the academy.
+- Increased efficiency by collecting and structuring existing lesson plans which facilitated the creation of personalized instructional materials.
+- Cultivated cross-cultural sensitivity and acquired rudimentary Korean language skills to enhance my communication with fellow educators.
 
 # Education
 
@@ -75,8 +74,8 @@ I am an entry-level React Developer in the final stages of graduating from CodeS
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
 🔗 https://two14coffee.netlify.app/ <br>
 Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
-* Created a multipage e-commerce website using React Router 6 to navigate between pages. ∙ Product inventory page contains single product components which when clicked, lead to a single  product page where customers can customize their order. <br>
-* Customers can add and remove items from the shopping cart which is stored in the local storage. ∙ Shopping cart content state is managed using the useState hook.<br> 
+- Implemented React Router 6 for seamless page navigation. 
+- Developed shopping cart functionality allowing customers to add and remove items, with cart data stored in local storage.
 #### Tech stack: <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -85,10 +84,9 @@ Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 #### Description: URL Link shortening web application using the GoTiny link shortener API<br>
 🔗 https://shortly-url-shorter-api.netlify.app/ <br>
 GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
-* Used API (GoTiny link shortener) to shorten user-inputted long URL links. <br>
-* Shortened links are stored in local storage and the three most recent results are displayed below  the input field. <br>
-* A copy of the shortened link is made by clicking the “copy” button.<br> 
-* Used Context API to manage state. <br>
+- Employed the GoTiny link shortener API to condense lengthy user-inputted URLs.
+- Implemented a feature that securely stores and retrieves shortened links in local storage, ensuring user convenience and accessibility.
+- Leveraged the Context API to proficiently manage the application's state.
 #### Tech stack: <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
