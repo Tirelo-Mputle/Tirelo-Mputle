@@ -1,10 +1,6 @@
 <table>
 <tr>
-<td>
 
-![Profile Photo](https://media.licdn.com/dms/image/D4D03AQE-2noJu33wcQ/profile-displayphoto-shrink_800_800/0/1666032686340?e=2147483647&v=beta&t=xDH7yVBjEv3o1STld73IBviaK1bBsI5JFme0m890jl8)
-
-</td>
 <td>
 
 # Tirelo Mputle
