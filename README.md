@@ -68,7 +68,7 @@ I am an Entry-level React Developer in the final stages of graduating from [**Co
 
 ## Next.js Recipe Book App
 🔗https://rando-sando-group-e.vercel.app/ <br>
-Github: https://github.com/CodeSpace-Academy/ASE_2023_GROUP_E
+Github: https://github.com/CodeSpace-Academy/ASE_2023_GROUP_E <br>
 <br>
 <img src="https://tirelomputle-portfolio.netlify.app/images/Recipe%20book%20app.png" alt="Recipe book app" width="400" height="300" />
 
