@@ -88,9 +88,9 @@ Github: https://github.com/CodeSpace-Academy/ASE_2023_GROUP_E <br>
 ## React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
 🔗 https://two14coffee.netlify.app/ <br>
+Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 <br>
 <img src="https://tirelomputle-portfolio.netlify.app/images/two14-coffee-shop-online-store.jpg" alt="Coffee Shop website" width="400" height="300"/>
-Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 - Implemented React Router 6 for seamless page navigation. 
 - Developed shopping cart functionality allowing customers to add and remove items, with cart data stored in local storage.
 #### Tech stack: <br>
