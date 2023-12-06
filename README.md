@@ -66,6 +66,20 @@ I am an Entry-level React Developer in the final stages of graduating from [**Co
 
 # PERSONAL PROJECTS 
 
+## Next.js Recipe Book App
+🔗https://rando-sando-group-e.vercel.app/
+#### Description: A recipe book app where users can: <br>
+* View thousands of recipes
+* Search for recipes by title
+* Filter through the recipes by ingredients, categories and other settings. 
+* View single recipes on a dedicated recipe page detailing more information.
+* Add and remove favourite recipes from the collection of their favourite recipes.
+
+#### Tech stack: <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ## React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
 🔗 https://two14coffee.netlify.app/ <br>
@@ -86,18 +100,6 @@ GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
 #### Tech stack: <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-## Javascript Todo List App
-🔗https://todoster.netlify.app/
-#### Description: This is a basic todo list app where the user can: <br>
-* Create todos
-* Edit todos
-* Delete todos
-
-#### Tech stack: <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Personal Portfolio Site 🙋‍♀️
 🔗https://tirelomputle-portfolio.netlify.app/ <br>
