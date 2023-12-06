@@ -80,9 +80,10 @@ Github: https://github.com/CodeSpace-Academy/ASE_2023_GROUP_E <br>
 * Add and remove favourite recipes from the collection of their favourite recipes.
 
 #### Tech stack: <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- Next.js
+- React
+- MongoDB
+- Material UI
 
 ## React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
