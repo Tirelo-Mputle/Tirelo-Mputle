@@ -88,6 +88,8 @@ Github: https://github.com/CodeSpace-Academy/ASE_2023_GROUP_E <br>
 ## React E-commerce Coffee Shop Website ☕ <br>
 #### Description: An e-commerce website for the Two 14 coffee shop <br>
 🔗 https://two14coffee.netlify.app/ <br>
+<br>
+<img src="https://tirelomputle-portfolio.netlify.app/images/two14-coffee-shop-online-store.jpg" alt="Coffee Shop website" width="400" height="300"/>
 Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 - Implemented React Router 6 for seamless page navigation. 
 - Developed shopping cart functionality allowing customers to add and remove items, with cart data stored in local storage.
@@ -99,6 +101,8 @@ Github: https://github.com/Tirelo-Mputle/two14-coffee-portfolio-project <br>
 #### Description: URL Link shortening web application using the GoTiny link shortener API<br>
 🔗 https://shortly-url-shorter-api.netlify.app/ <br>
 GitHub - https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
+<br>
+<img src="https://tirelomputle-portfolio.netlify.app/images/shortly-app.jpg" alt="Link shortening website" width="400" height="300"/>
 - Employed the GoTiny link shortener API to condense lengthy user-inputted URLs.
 - Implemented a feature that securely stores and retrieves shortened links in local storage, ensuring user convenience and accessibility.
 - Leveraged the Context API to proficiently manage the application's state.
